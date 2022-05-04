@@ -3,8 +3,8 @@ from datetime import datetime
 import smtplib
 import random
 
-SENDER_EMAIL = 'dummyman567@gmail.com'
-SENDER_PASSWORD = 'iamdummy13'
+SENDER_EMAIL = ''
+SENDER_PASSWORD = ''
 
 
 def check_birthday(birthday):
